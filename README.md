@@ -4,7 +4,7 @@ This is your first assignment (after the Logo quiz).  The files in this github r
 ## Using the files
 To use these, simply clone this repository onto your computer, or go to the GitHub website, click the green `Code` button and download the zip file.
 
-Once you have downloaded all the file you can open the week4.html, week5.html and week6.html files and paste your exercise code in the bits indicated.
+Once you have the files you can open week4.html, week5.html and week6.html and paste your exercise code in the bits indicated.
 
 Don't forget to edit this README.md file as specified in the assignment notes.
 
