@@ -159,20 +159,6 @@ class coinObjects {
     }
 
     create() {
-        // if (this.growing) {
-        //     if (this.diameter < 60) {
-        //         this.diameter += 0.2
-        //     } else {
-        //         this.growing = false
-        //     }
-        // } else {
-        //     if (this.diameter > 40) {
-        //         this.diameter -= 0.2
-        //     } else {
-        //         this.growing = true
-        //     }
-        // }
-
         this.diameter = map(sin(this.growRate), -1, 1, 50, 60)
 
         stroke(0)
